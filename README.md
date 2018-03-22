@@ -1,6 +1,6 @@
 # sample
 
-[muvue issue demo]()
+[muvue issue #161](https://github.com/Meituan-Dianping/mpvue/issues/161)
 
 部分issue描述 在demo的 `src/components/card.vue` 中
 
